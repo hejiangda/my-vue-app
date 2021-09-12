@@ -1,5 +1,7 @@
 # vue-app
 
+以后就在这里学习vue吧！
+
 ## Project setup
 ```
 yarn install
